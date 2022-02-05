@@ -54,7 +54,7 @@ ul {
     background-image: radial-gradient(circle farthest-corner at 10% 20%, #25c4ce 0%, #fd1365 90%);
     background-size: 100%;
 }
-    
+
 .footer {
     grid-area: foot;
     display: flex;
@@ -70,6 +70,11 @@ ul {
     align-content: center;
     justify-content: center;
     background-color: black;
+}
 
+.fondo {
+    padding: 15px;
+    background-image: radial-gradient(circle farthest-corner at 10% 20%, #25c4ce 0%, #fd1365 90%);
+    background-size: 100%;
 
 }
